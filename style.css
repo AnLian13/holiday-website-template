@@ -1,0 +1,25 @@
+img.card-img-top {
+    margin: 1px;
+    height: 201px;
+}
+h1 {
+    color: white;
+}
+
+h2.card-title {
+    color: black;
+}
+
+h2 {color: black;}
+
+/* GLOBAL STYLES */
+body {
+    background: violent;
+    padding-top: 0em;
+  
+    justify-content: center;
+  }
+  
+  body {
+    background: yellowgreen;
+}
