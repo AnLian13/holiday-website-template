@@ -4,10 +4,12 @@ img.card-img-top {
 }
 h1 {
     color: white;
+     user-select: none;
 }
 
 h2.card-title {
     color: black;
+     user-select: none;
 }
 
 h2 {color: black;}
@@ -16,10 +18,12 @@ h2 {color: black;}
 body {
     background: violent;
     padding-top: 0em;
+     user-select: none;
   
     justify-content: center;
   }
   
   body {
     background: yellowgreen;
+       user-select: none;
 }
