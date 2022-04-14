@@ -1,25 +1,30 @@
 img.card-img-top {
     margin: 1px;
     height: 201px;
+    user-select: none;
 }
 h1 {
     color: white;
+    user-select: none;
 }
 
 h2.card-title {
     color: black;
+    user-select: none;
 }
 
 h2 {color: black;}
-
+user-select: none;
 /* GLOBAL STYLES */
 body {
     background: violent;
     padding-top: 0em;
+    user-select: none;
   
     justify-content: center;
   }
   
   body {
     background: yellowgreen;
+      user-select: none;
 }
